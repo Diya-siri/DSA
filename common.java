@@ -1,5 +1,5 @@
 
-//common elements among three arrays
+//find common elements among three arrays
 class Solution
 {
     ArrayList<Integer> commonElements(int A[], int B[], int C[], int n1, int n2, int n3) 
